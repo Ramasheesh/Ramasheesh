@@ -61,7 +61,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ramasheesh&show_icons=true&theme=default&hide_border=true&title_color=1F3864&icon_color=C9A227&text_color=333333" width="48%" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?user=Ramasheesh&show_icons=true&theme=default&hide_border=true&title_color=1F3864&icon_color=C9A227&text_color=333333" width="48%" alt="GitHub stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramasheesh&hide_border=true&background=FFFFFF&ring=1F3864&fire=C9A227&currStreakLabel=1F3864" width="48%" alt="GitHub streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramasheesh&bg_color=FFFFFF&color=1F3864&line=C9A227&point=1F3864&hide_border=true" width="97%" alt="Contribution graph" />
