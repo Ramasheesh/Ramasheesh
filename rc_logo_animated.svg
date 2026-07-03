@@ -1,0 +1,11 @@
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="200" cy="200" r="178" fill="none" stroke="#C9A227" stroke-width="2" opacity="0.35"/>
+  <circle cx="200" cy="200" r="150" fill="#1F3864"/>
+  <text x="200" y="228" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="110" font-weight="700" fill="#FFFFFF">RC</text>
+  <path d="M110 274 L86 250 L110 226" fill="none" stroke="#C9A227" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M290 274 L314 250 L290 226" fill="none" stroke="#C9A227" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle r="7" fill="#C9A227">
+    <animateMotion dur="6s" repeatCount="indefinite"
+      path="M 200,22 A 178,178 0 1,1 199.9,22 Z" />
+  </circle>
+</svg>
